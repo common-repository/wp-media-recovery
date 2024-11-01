@@ -1,0 +1,7 @@
+.git/
+node_modules/
+.gitignore
+gulpfile.js
+composer.json
+package.json
+package-lock.json
